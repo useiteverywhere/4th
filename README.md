@@ -28,3 +28,6 @@
 
 ![логотип](https://logodix.com/logo/2062376.png)
 
+```javascript
+console.log('message');
+```

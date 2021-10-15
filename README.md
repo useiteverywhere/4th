@@ -12,3 +12,15 @@
 *leaning text*
 
 ~~one more variant~~
+
+*	table
+*	table
+*	table
+	*	table
+	*	table
+	*	table
+1. text
+1. text
+	1. text
+	2. text
+	3. text

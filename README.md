@@ -26,4 +26,4 @@
 	3. text
 [гиперссылка](https://github.com/useiteverywhere/4th)
 
-![логотип](https://tr.wikipedia.org/wiki/Dosya:Bootstrap_logo.svg)
+![логотип](https://logodix.com/logo/2062376.png)
